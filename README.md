@@ -17,35 +17,39 @@
 
 #  🙋 Hello
 
+<div align="center">
 <table>
   
 <tr><td>
   
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
-<p>&emsp;&emsp;An ordinary mouse from the Communication Engineering College</p>
+<p>&emsp;An ordinary mouse from the Communication Engineering College</p>
 
 
 </td></tr>
 
 <tr><td>
 
-<div>&nbsp;</div>
-<div>&nbsp;</div>
+![bsilente's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsilente&show_icons=true&theme=radical&rank_icon=github&card_width=300)
 
-![bsilente's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsilente&show_icons=true&theme=radical&rank_icon=github)
+</td></tr>
 
-![bsilente's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsilente&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=radical)
+<tr><td>
+
+![bsilente's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsilente&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=radical&card_width=440)
 
 </td></tr>
 
 </table>
+
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
+
+<!-- run 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png" width="250" height="250" />
 
 <!-- Joke 笑话 -->
 <div>
