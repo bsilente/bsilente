@@ -11,7 +11,7 @@ on:
   # 每当push到master分支时自动执行
   push:
     branches:
-    - master
+    - main
 
 
 
