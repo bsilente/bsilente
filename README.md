@@ -31,17 +31,6 @@
 
 </td></tr>
 
-<tr><td>
-
-![bsilente's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsilente&show_icons=true&theme=radical&rank_icon=github&card_width=600)
-
-</td></tr>
-
-<tr><td>
-
-![bsilente's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bsilente&layout=compact&hide_border=true&langs_count=10&show_icons=true&theme=radical&card_width=600)
-
-</td></tr>
 
 </table>
 
